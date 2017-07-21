@@ -20,7 +20,7 @@
 <https://blog.lookout.com>   一家主要做移动手机安全的公司  
   
 ## 威胁情报类  
-<https://www.recordedfuture.com/blog/>   一家专注做威胁情报的公司，利用机器学习等技术广泛地收集公开的和隐蔽的威胁情报  
+<https://www.recordedfuture.com/blog/>   一家专注做威胁情报的公司，利用机器学习等技术广泛地收集公开的和隐蔽的威胁情报  
 <https://www.threatconnect.com/blog/>   国外一家做威胁发现，风险评估公司维护的安全博客  
 <http://blog.jpcert.or.jp/>  日本的一家做应急响应的公司  
 <http://www.clearskysec.com/blog/>  国外的一家只提供安全服务的公司，大多数文章都会提供IOC  
