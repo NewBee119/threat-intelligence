@@ -1,5 +1,6 @@
-# threat-intelligence    
-## 综合类咨询     
+# threat-intelligence    
+专注于收集会释放威胁情报的网站，在此过程中，也可以了解一些安全公司做的事情，产品线，服务等，有助于全面了解该行业的概况。
+## 综合类咨询     
 <https://www.hackread.com/hacking-news/>  翻墙看，多为一些比较新鲜的安全咨询  
 <https://github.com/kbandla/APTnotes>   收集了从2008年到最近的APT事件，有人维护  
 <https://badcyber.com>  一群想要成为研究员的人和记者维护的网站，每个月都会收集几次与网络安全相关的咨询  
