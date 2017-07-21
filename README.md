@@ -21,11 +21,11 @@
   
 ## 威胁情报类  
 <https://www.recordedfuture.com/blog/>   一家专注做威胁情报的公司，利用机器学习等技术广泛地收集公开的和隐蔽的威胁情报  
-<http://www.pwc.co.uk/issues/cyber-security-data-privacy.html>  英国的一家做网络安全的公司，主打威胁情报，数据隐私保护，应急响应  
 <https://www.threatconnect.com/blog/>   国外一家做威胁发现，风险评估公司维护的安全博客  
 <http://blog.jpcert.or.jp/>  日本的一家做应急响应的公司  
 <http://www.clearskysec.com/blog/>  国外的一家只提供安全服务的公司，大多数文章都会提供IOC  
 <https://www.proofpoint.com/us/threat-insight>  美国的一家做安全咨询类的公司，文章质量比较高  
+<http://www.pwc.co.uk/issues/cyber-security-data-privacy.html>  英国的一家做网络安全的公司，主打威胁情报，数据隐私保护，应急响应   
   
 ## 传统安全类  
 <https://securelist.com/>   卡巴斯基维护的信息安全类咨询，多是样本分析类文章    
