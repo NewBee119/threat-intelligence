@@ -37,5 +37,5 @@
 <https://www.kaspersky.com/blog/> 卡巴斯基实验室维护的安全博客  
 <https://www.arbornetworks.com/blog/asert/>  主打DDOS防御的公司，需要翻墙	 
 <https://securingtomorrow.mcafee.com/mcafee-labs>  Mcafee安全实验室维护的博客
-
+<https://heimdalsecurity.com/blog/posts/> 做数字资产和数字信息保护的公司
 
