@@ -12,7 +12,8 @@
 ### 工控安全类  
 <https://cyberx-labs.com/en/category/blog/>  一家做工控和物联网的公司，其产品支持所有的工控协议，技术先进  
 <https://www.dragos.com/blog.html>  一家做工控安全的公司，它的口号是，Superheroes Don’t do Infrastructure，That’s why we’re here  
-  
+<http://blog.senr.io/> 一家专做嵌入式、IoT设备安全的公司
+  
 ### 终端安全类  
 <https://www.cybereason.com/blog/>  国外一家做安全的公司提供的博客，主要做终端安全  
 <https://www.cylance.com/en_us/home.html>   一家主要做企业终端安全的公司  
@@ -38,5 +39,6 @@
 <https://www.arbornetworks.com/blog/asert/>  主打DDOS防御的公司，需要翻墙	 
 <https://securingtomorrow.mcafee.com/mcafee-labs>  Mcafee安全实验室维护的博客  
 <https://heimdalsecurity.com/blog/posts/> 做数字资产和数字信息保护的公司   
-<https://blog.checkpoint.com/> 全球领先的专注做网络安全的公司，公司网站居然是粉色系
+<https://blog.checkpoint.com/> 全球领先的专注做网络安全的公司，公司网站居然是粉色系  
+<https://labs.bitdefender.com/blog/> 大名鼎鼎的传统杀软厂商
 
