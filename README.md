@@ -7,8 +7,8 @@
 <http://securityaffairs.co/wordpress/>    主打信息安全咨询的一家国外公司，主题分类很全面  
 <http://cysinfo.com/category/articles/>    是一个开放的网络安全社区维护的博客，包含安全沙龙，培训，以及技术分享  
 <https://citizenlab.ca/category/research/>    加拿大公民实验室，对数字间谍比较感兴趣  
-<https://www.secureworks.com/blog/>    全球提供安全解决方案的领导者，博客中的内容比较宏观  
-  
+<https://www.secureworks.com/blog/>    全球提供安全解决方案的领导者（DELL的安全团队），博客中的内容比较宏观    
+  
 ### 工控安全类  
 <https://cyberx-labs.com/en/category/blog/>  一家做工控和物联网的公司，其产品支持所有的工控协议，技术先进  
 <https://www.dragos.com/blog.html>  一家做工控安全的公司，它的口号是，Superheroes Don’t do Infrastructure，That’s why we’re here  
@@ -40,5 +40,10 @@
 <https://securingtomorrow.mcafee.com/mcafee-labs>  Mcafee安全实验室维护的博客  
 <https://heimdalsecurity.com/blog/posts/> 做数字资产和数字信息保护的公司   
 <https://blog.checkpoint.com/> 全球领先的专注做网络安全的公司，公司网站居然是粉色系  
-<https://labs.bitdefender.com/blog/> 大名鼎鼎的传统杀软厂商
-
+<https://labs.bitdefender.com/blog/> 大名鼎鼎的传统杀软厂商  
+<https://www.paloaltonetworks.com/resources> 做云安全，下一代防火墙的安全厂商   
+<https://blogs.cisco.com/talos>  思科Talos团队（牛X团队）维护的安全威胁类博客  
+<https://aws.amazon.com/cn/blogs/security/> 亚马逊的安全博客   
+<https://www.imperva.com/blog/> 信息安全公司，产品覆盖很全面，如DDoS，数据安全，云安全等    
+<http://blog.trendmicro.com/> 趋势科技安全博客发布  
+<https://blog.fortinet.com/category/security-research> 全球网络安全设备提供商  
