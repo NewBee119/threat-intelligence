@@ -41,9 +41,9 @@
 <https://heimdalsecurity.com/blog/posts/> 做数字资产和数字信息保护的公司   
 <https://blog.checkpoint.com/> 全球领先的专注做网络安全的公司，公司网站居然是粉色系  
 <https://labs.bitdefender.com/blog/> 大名鼎鼎的传统杀软厂商  
-<https://www.paloaltonetworks.com/resources> 做云安全，下一代防火墙的安全厂商   
+<https://www.paloaltonetworks.com/resources> 做云安全，下一代防火墙的安全厂商    
 <https://blogs.cisco.com/talos>  思科Talos团队（牛X团队）维护的安全威胁类博客  
-<https://aws.amazon.com/cn/blogs/security/> 亚马逊的安全博客   
-<https://www.imperva.com/blog/> 信息安全公司，产品覆盖很全面，如DDoS，数据安全，云安全等    
+<https://aws.amazon.com/cn/blogs/security/> 亚马逊的安全博客  
+<https://www.imperva.com/blog/> 信息安全公司，产品覆盖很全面，如DDoS，数据安全，云安全等      
 <http://blog.trendmicro.com/> 趋势科技安全博客发布  
-<https://blog.fortinet.com/category/security-research> 全球网络安全设备提供商  
+<https://blog.fortinet.com/category/security-research> 全球网络安全设备提供商    
