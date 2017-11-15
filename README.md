@@ -12,7 +12,8 @@
 ### 工控安全类  
 <https://cyberx-labs.com/en/category/blog/>  一家做工控和物联网的公司，其产品支持所有的工控协议，技术先进  
 <https://www.dragos.com/blog.html>  一家做工控安全的公司，它的口号是，Superheroes Don’t do Infrastructure，That’s why we’re here  
-<http://blog.senr.io/> 一家专做嵌入式、IoT设备安全的公司
+<http://blog.senr.io/> 一家专做嵌入式、IoT设备安全的公司  
+<https://embedi.com/blog>  才成立的一家做嵌入式设备安全的公司  
   
 ### 终端安全类  
 <https://www.cybereason.com/blog/>  国外一家做安全的公司提供的博客，主要做终端安全  
