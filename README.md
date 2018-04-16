@@ -17,8 +17,8 @@
 <https://preossec.com/blog/>  一家专做IoT设备固件安全分析的公司  
   
 ### 终端安全类  
-<https://www.cybereason.com/blog/>  国外一家做安全的公司提供的博客，主要做终端安全  
-<https://www.cylance.com/en_us/home.html>   一家主要做企业终端安全的公司  
+<https://www.cybereason.com/blog/>  国外一家做安全的公司提供的博客，主要做终端安全     
+<https://www.cylance.com/en_us/home.html>   一家主要做企业终端安全的公司      
   
 ### 移动安全类  
 <https://blog.lookout.com>   一家主要做移动手机安全的公司  
